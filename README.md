@@ -64,7 +64,9 @@
 
 **Business Tools**
 
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faidanfinn.com%2F%3Ftag%3Dazure-devops&psig=AOvVaw03KiGTdxxsCFLeNxX3d3p_&ust=1609784743189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjr98mxgO4CFQAAAAAdAAAAABAD" alt="Azure devops"/></code>
+<code>
+    <img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faidanfinn.com%2F%3Ftag%3Dazure-devops&psig=AOvVaw03KiGTdxxsCFLeNxX3d3p_&ust=1609784743189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjr98mxgO4CFQAAAAAdAAAAABAD" alt="Azure devops"/>
+</code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
@@ -73,11 +75,8 @@
 ## My latest posts
 
 <br/>
-- 📌 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&hide=contribs,prs)<br />
-- 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
-- 📌 [Meus aprendizados no Basecamp](https://www.linkedin.com/pulse/meus-aprendizados-basecamp-patr%C3%ADcia-mitsuko-mashiba/)
-
-<br/>
+- 📌 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&hide=contribs,prs)
+<br />
 
 ## Coding Activity
 
