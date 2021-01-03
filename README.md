@@ -83,39 +83,29 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Mitsu325's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
 </p>
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
-   </a>
-</p>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/updated/DiguyaDeveloper/DiguyaDeveloper" alt="Updated badge" />
-   </a>
-</p>
-
-<p align="right">
+<p align="left">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/created/DiguyaDeveloper/DiguyaDeveloper" alt="Created badge" />
    </a>
-</p>
-
-
-<p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/repos/DiguyaDeveloper" alt="Created badge" />
+      <img src="https://badges.pufler.dev/updated/DiguyaDeveloper/DiguyaDeveloper" alt="Updated badge" />
+   </a>
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/repos/DiguyaDeveloper" alt="Repos badge" />
+   </a>
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/years/DiguyaDeveloper" alt="Years badge" />
    </a>
 </p>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/years/DiguyaDeveloper" alt="Created badge" />
+      <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
    </a>
 </p>
 <!--
