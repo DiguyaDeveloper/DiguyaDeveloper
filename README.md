@@ -64,7 +64,6 @@
 
 **Business Tools**
 
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.parkmycloud.com%2Fblog%2Fazure-devops%2F&psig=AOvVaw3-xslHIYRbOl6u2oeH1qO9&ust=1609786721815000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODv6vm4gO4CFQAAAAAdAAAAABAD" alt="Azure devops"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
@@ -74,6 +73,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
+</p>
+
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DiguyaDeveloper" alt="Diguya github stats" />
 </p>
 
 <br/>
@@ -95,17 +101,3 @@
       <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
    </a>
 </p>
-<!--
-**DiguyaDeveloper/DiguyaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
