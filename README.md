@@ -39,7 +39,6 @@
 
 **Application and Data**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -65,8 +64,7 @@
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
+<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faidanfinn.com%2F%3Ftag%3Dazure-devops&psig=AOvVaw03KiGTdxxsCFLeNxX3d3p_&ust=1609784743189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjr98mxgO4CFQAAAAAdAAAAABAD" alt="Azure devops"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
@@ -75,7 +73,7 @@
 ## My latest posts
 
 <br/>
-
+- 📌 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&hide=contribs,prs)<br />
 - 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
 - 📌 [Meus aprendizados no Basecamp](https://www.linkedin.com/pulse/meus-aprendizados-basecamp-patr%C3%ADcia-mitsuko-mashiba/)
 
@@ -86,16 +84,23 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Mitsu325's github stats" />
 </p>
 
 <br/>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
    </a>
 </p>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/updated/DiguyaDeveloper/DiguyaDeveloper" alt="Updated badge" />
+   </a>
+</p>
+
 
 <!--
 **DiguyaDeveloper/DiguyaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
