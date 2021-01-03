@@ -100,7 +100,24 @@
    </a>
 </p>
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/created/DiguyaDeveloper/DiguyaDeveloper" alt="Created badge" />
+   </a>
+</p>
 
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/repos/DiguyaDeveloper" alt="Created badge" />
+   </a>
+</p>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/years/DiguyaDeveloper" alt="Created badge" />
+   </a>
+</p>
 <!--
 **DiguyaDeveloper/DiguyaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
