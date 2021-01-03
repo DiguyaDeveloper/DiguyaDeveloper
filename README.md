@@ -101,9 +101,6 @@
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/years/DiguyaDeveloper" alt="Years badge" />
    </a>
-</p>
-
-<p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
    </a>
