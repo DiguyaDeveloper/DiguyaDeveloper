@@ -64,7 +64,7 @@
 
 **Business Tools**
 
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faidanfinn.com%2F%3Ftag%3Dazure-devops&psig=AOvVaw03KiGTdxxsCFLeNxX3d3p_&ust=1609784743189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjr98mxgO4CFQAAAAAdAAAAABAD" alt="Azure devops"/></code>
+<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.parkmycloud.com%2Fblog%2Fazure-devops%2F&psig=AOvVaw3-xslHIYRbOl6u2oeH1qO9&ust=1609786721815000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODv6vm4gO4CFQAAAAAdAAAAABAD" alt="Azure devops"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
