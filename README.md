@@ -66,6 +66,18 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
+  
 </p>
+
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiguyaDeveloper&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
 
