@@ -24,13 +24,8 @@
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/diego-ceccon/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:diegoceccon1544@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ceccon/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:diegoceccon1544@gmail.com)
 
 <br/><br/>
 
@@ -74,29 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
 </p>
 
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DiguyaDeveloper" alt="Diguya github stats" />
-</p>
-
-<br/>
-
-<p align="left">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/created/DiguyaDeveloper/DiguyaDeveloper" alt="Created badge" />
-   </a>
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/updated/DiguyaDeveloper/DiguyaDeveloper" alt="Updated badge" />
-   </a>
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/repos/DiguyaDeveloper" alt="Repos badge" />
-   </a>
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/years/DiguyaDeveloper" alt="Years badge" />
-   </a>
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/DiguyaDeveloper/DiguyaDeveloper" alt="Visitors badge" />
-   </a>
-</p>
