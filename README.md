@@ -12,9 +12,9 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm cadet at Ci&t;
+- 👩🏻‍🚀 I'm Frontend Engineer at Ci&t;
 
-- 👩🏻‍💻 I’m currently working on something cool :wink:;
+- 📌 I’m currently working on with Angular | Typescript | ReactJS.
 
 - 🌱 I’m currently learning Algorithm in Typescript Language, Angular | ReactJS | ReactNative | NodeJs | NestJs; 
 
