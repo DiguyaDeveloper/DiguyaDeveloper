@@ -12,11 +12,11 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm cadet at Dextra;
+- 👩🏻‍🚀 I'm cadet at Ci&t;
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Algorithm in Javascript Language, Angular; 
+- 🌱 I’m currently learning Algorithm in Typescript Language, Angular | ReactJS | ReactNative | NodeJs | NestJs; 
 
 - 💬 Ask me about anything, I am happy to help;
 
