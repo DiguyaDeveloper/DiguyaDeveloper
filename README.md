@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Diego, Fullstack developer from 
+  I'm Diego, Fullstack developer! I'm living  in 
   <b>Brazil</b>.
 </p>
 
