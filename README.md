@@ -72,3 +72,7 @@
  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiguyaDeveloper&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" />
 </center>
 
+<center>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DiguyaDeveloper&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+</center>
+
