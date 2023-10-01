@@ -77,6 +77,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DiguyaDeveloper&theme=dracula&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 </center>
 
-<p align="center">
-  [![An image of @diguya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diguya)](https://holopin.io/@diguya)
-</p>
+[![An image of @diguya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diguya)](https://holopin.io/@diguya)
