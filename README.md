@@ -3,6 +3,7 @@
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my page!
+
 <p>
   I'm Diego, Fullstack developer! I'm living  in 
   <b>Brazil</b>.
@@ -10,17 +11,17 @@
 
 <br/>
 
-### Talking about Personal Stuffs
+## About Me
 
-- 👩🏻‍🚀 I'm Frontend Engineer at Ci&t;
+👨‍💻 I'm a Fullstack Developer with expertise in various technologies, and I'm passionate about clean code and architecture.
 
-- 📌 I’m currently working on with Angular | Typescript | ReactJS.
+🚀 Currently working as a Software Engineer at Ci&t.
 
-- 🌱 I’m currently learning Algorithm in Typescript Language, Angular | ReactJS | ReactNative | NodeJs | NestJs; 
+🌱 I'm continuously learning and experimenting with various technologies to keep my skills sharp.
 
-- 💬 Ask me about anything, I am happy to help;
+💬 Feel free to reach out if you have any questions or want to collaborate.
 
-- 🏆 My favorite framework is Angular;
+🏆 My favorite frameworks include Angular, React, and Next.js.
 
 ### Where to find me:
 
@@ -58,23 +59,44 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
-## Coding Activity
+### Where to find me:
 
-<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ceccon/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:diegoceccon1544@gmail.com)
 
-<p align="center">
-  
-</p>
+## My Development Stack
 
+### Application and Data
 
-<center>
-    <img src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula&hide=contribs,prs" alt="Diguya github stats" />
- <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiguyaDeveloper&hide=html&layout=compact&count_private=true&hide_border=true&theme=dracula" />
-</center>
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DiguyaDeveloper&theme=dracula&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-</center>
+### Utilities
 
-[![An image of @diguya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diguya)](https://holopin.io/@diguya)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849be?style=for-the-badge&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+
+### DevOps
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+
+### Business Tools
+
+![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiguyaDeveloper&layout=compact&count_private=true&hide_border=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiguyaDeveloper&theme=dracula&border=30A3DC&dates=FFF)
