@@ -40,6 +40,22 @@
 
 📫 Você pode entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/diego-ceccon/) ou me enviar um e-mail para diegoceccon1544@gmail.com.
 
+## Holopin Bagdes
+
+![An image of @tiago154's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tiago154)](https://holopin.io/@tiago154)
+
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiguyaDeveloper&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
+
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DiguyaDeveloper&show_icons=true&theme=dracula)
