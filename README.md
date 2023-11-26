@@ -42,7 +42,7 @@
 
 ## Holopin Bagdes
 
-![An image of @tiago154's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tiago154)](https://holopin.io/@tiago154)
+[![An image of @DiguyaDeveloper's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DiguyaDeveloper)](https://holopin.me/DiguyaDeveloper)
 
 <center>
     <table align="center">
