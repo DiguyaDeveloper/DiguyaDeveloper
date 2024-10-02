@@ -6,7 +6,7 @@
 
 👨‍💻 Sou um Software Engineer e futuro Arquiteto de Software com experiência em diversas tecnologias e sou apaixonado por código limpo e arquitetura.
 
-🚀 Atualmente estou trabalhando como Fullstack Engineer na Ci&t.
+🚀 Atualmente estou trabalhando como Fullstack Engineer no Bradesco.
 
 🌱 Estou continuamente aprendendo e experimentando com diversas tecnologias para manter minhas habilidades afiadas.
 
